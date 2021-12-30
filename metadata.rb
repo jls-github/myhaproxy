@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures myhaproxy'
 long_description 'Installs/Configures myhaproxy'
-version '0.1.1'
+version '1.0.1'
 chef_version '>= 14.0'
 
 depends 'haproxy', '~> 6.2.5'
